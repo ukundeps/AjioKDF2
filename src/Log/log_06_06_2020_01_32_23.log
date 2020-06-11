@@ -1,0 +1,16 @@
+2020-Jun-06 01:32:07,879 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-Jun-06 01:32:12,138 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-Jun-06 01:32:20,686 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-Jun-06 01:32:23,286 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-Jun-06 01:32:23,301 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-Jun-06 01:32:23,313 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-Jun-06 01:32:23,402 [main] com.ajio.PageTests.FooterPageTest 
+  INFO  SEO dropdown List is visible
+2020-Jun-06 01:32:23,602 [main] com.ajio.keyword.Keyword 
+  INFO  10SECONDS Explicit wait is applied!!

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32183" started-at="2020-06-10T21:42:39Z" finished-at="2020-06-10T21:43:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32183" started-at="2020-06-10T21:42:39Z" finished-at="2020-06-10T21:43:11Z">
+      <class name="com.ajio.PageTests.FooterPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ajio.PageTests.FooterPageTest@80503]" name="setUp" is-config="true" duration-ms="21524" started-at="2020-06-11T03:12:39Z" finished-at="2020-06-11T03:13:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_ajioHeaderLinks_Are_Working()[pri:0, instance:com.ajio.PageTests.FooterPageTest@80503]" name="verify_ajioHeaderLinks_Are_Working" duration-ms="6328" started-at="2020-06-11T03:13:01Z" description="Verify Ajio Header Links are working fine" finished-at="2020-06-11T03:13:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_ajioHeaderLinks_Are_Working -->
+        <test-method status="PASS" signature="tearTear()[pri:0, instance:com.ajio.PageTests.FooterPageTest@80503]" name="tearTear" is-config="true" duration-ms="4298" started-at="2020-06-11T03:13:07Z" finished-at="2020-06-11T03:13:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearTear -->
+      </class> <!-- com.ajio.PageTests.FooterPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

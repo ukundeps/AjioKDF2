@@ -1,0 +1,66 @@
+2020-Jun-05 22:21:02,695 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-Jun-05 22:21:05,616 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-Jun-05 22:21:05,623 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-Jun-05 22:21:05,634 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-Jun-05 22:21:05,638 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: shopMen
+2020-Jun-05 22:21:05,640 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-Jun-05 22:21:05,641 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //a[@href="/shop/men"]
+2020-Jun-05 22:21:08,899 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on shopMen
+2020-Jun-05 22:21:08,913 [main] com.ajio.keyword.Keyword 
+  INFO  10SECONDS Explicit wait is applied!!
+2020-Jun-05 22:21:09,027 [main] com.ajio.keyword.Keyword 
+  INFO  Online Shopping for Men – Clothing, Footwear, Fashion & Accessories | AJIO  :Returned Current Webpage Title!!
+2020-Jun-05 22:21:13,276 [main] com.ajio.keyword.Keyword 
+  INFO  Current browser window is Closed!!
+2020-Jun-05 22:21:18,963 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-Jun-05 22:21:23,137 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-Jun-05 22:21:30,010 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-Jun-05 22:21:31,548 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-Jun-05 22:21:31,551 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-Jun-05 22:21:31,556 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-Jun-05 22:21:31,557 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: shopKids
+2020-Jun-05 22:21:31,558 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-Jun-05 22:21:31,560 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //a[@href="/shop/kids"]
+2020-Jun-05 22:21:34,881 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on shopKids
+2020-Jun-05 22:21:34,882 [main] com.ajio.keyword.Keyword 
+  INFO  10SECONDS Explicit wait is applied!!
+2020-Jun-05 22:21:35,549 [main] com.ajio.keyword.Keyword 
+  INFO  Online Kids fashion shopping site in India - AJIO  :Returned Current Webpage Title!!
+2020-Jun-05 22:21:39,969 [main] com.ajio.keyword.Keyword 
+  INFO  Current browser window is Closed!!
+2020-Jun-05 22:21:45,989 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-Jun-05 22:21:50,125 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-Jun-05 22:21:56,166 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-Jun-05 22:21:59,062 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-Jun-05 22:21:59,066 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-Jun-05 22:21:59,071 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-Jun-05 22:21:59,073 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: shopSale
+2020-Jun-05 22:21:59,073 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-Jun-05 22:21:59,074 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //a[@href="/shop/sale"]

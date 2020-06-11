@@ -1,0 +1,16 @@
+2020-Jun-07 12:35:01,903 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-Jun-07 12:35:06,105 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-Jun-07 12:35:06,110 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-Jun-07 12:35:06,118 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-Jun-07 12:35:06,118 [main] com.ajio.stepDefinitions.LogoFunctionalityStep 
+  INFO  Ajio Url Launched Successfully!!
+2020-Jun-07 12:35:06,456 [main] com.ajio.stepDefinitions.LogoFunctionalityStep 
+  INFO  SignIn Modal Pop-up Opned!!
+2020-Jun-07 12:35:08,303 [main] com.ajio.keyword.Keyword 
+  INFO  10SECONDS Explicit wait is applied!!
+2020-Jun-07 12:35:15,648 [main] com.ajio.stepDefinitions.LogoFunctionalityStep 
+  INFO  Redirected to My Account Page

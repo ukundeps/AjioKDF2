@@ -1,0 +1,12 @@
+2020-Jun-06 01:34:00,355 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-Jun-06 01:34:00,378 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-Jun-06 01:34:00,383 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-Jun-06 01:34:00,433 [main] com.ajio.PageTests.FooterPageTest 
+  INFO  SEO dropdown List is visible
+2020-Jun-06 01:34:00,569 [main] com.ajio.keyword.Keyword 
+  INFO  10SECONDS Explicit wait is applied!!
+2020-Jun-06 01:34:21,185 [main] com.ajio.keyword.Keyword 
+  INFO  Screenshot taken Successfully!!
